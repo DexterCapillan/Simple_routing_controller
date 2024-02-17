@@ -11,7 +11,10 @@
     <h1><button><a href="/Hobbies">Hobbies</a></button></h1>  
     <ul>
 
-    <h2>i am good at basketballs</h2>
+    <h2>Video editing</h2>
+    <h2>Photo Editing</h2>
+    <h2>Html</h2>
+    <h2>js</h2>
 </ul>
 </body>
 </html>
